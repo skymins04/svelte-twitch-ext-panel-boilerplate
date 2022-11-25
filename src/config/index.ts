@@ -1,3 +1,4 @@
+import "../global.css";
 import "./app.css";
 import ConfigApp from "./ConfigApp.svelte";
 

@@ -1,3 +1,4 @@
+import "../global.css";
 import "./app.css";
 import PanelApp from "./PanelApp.svelte";
 
