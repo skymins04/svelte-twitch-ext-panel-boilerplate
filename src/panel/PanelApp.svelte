@@ -4,4 +4,4 @@
 <script lang="ts">
 </script>
 
-<h1>Panel Page</h1>
+<h1 class="text-red-600">Panel Page</h1>
